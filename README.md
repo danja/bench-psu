@@ -15,7 +15,11 @@ I play with transistor/op amp circuits as well as Arduino & similar microcontrol
 
 ## Components
 
-With PSU in mind I bought a couple of cheapo digital display V/A meters (Banggood, China), everything else are parts I have knocking around.
+
+
+![some bits](https://github.com/danja/bench-psu/blob/master/images/bits_2020-09-25.jpeg?raw=true "Some bits")
+
+With PSU in mind I bought a couple of cheapo digital display V/A meters (Banggood, China), everything else things I have knocking around.
 
 I've got a bunch of LM317 regulators so the main circuits will be based on these.
 
@@ -25,11 +29,17 @@ For a case, I had a 3mm sheet aluminium offcut that cut in half & cleaned up pro
 
 I've got some stripboard I can build the circuit on.
 
+I've 4mm connection posts for the variable supplies, 2mm sockets for the fixed voltages.
+
 ### Front Panel
 
 It hardly seems worth bothering about this for something so simple, a one-off. But I have other projects in progress where a nice front panel will be important, so playing with approaches here should be useful.
 
 In the recent past I made a reasonable-looking front panel using laminate designed for signs, hand-drilled, with the symbols printed on a sheet of transparent acetate. For the design I used LibreOffice Draw. This worked ok, straightforward, but not ideal if I wanted to use a service to machine-cut panels. So this time trying Inkscape for the design.
+
+Getting there :
+
+![front panel](https://github.com/danja/bench-psu/blob/master/images/front-panel.png "front panel")
 
 
 
