@@ -23,7 +23,8 @@ With PSU in mind I bought a couple of cheapo digital display V/A meters (Banggoo
 
 I've got a bunch of LM317 regulators so the main circuits will be based on these.
 
-I've got two very similar old HP switch mode PSUs (from printers?), each with +16v & +32v around 700mA. Transformers are expensive, so I might as well recycle these. The plan is to use the 32v from each to source the variable outputs. Not sure yet, but probably use one to also source the fixed outputs.
+I've got two very similar old HP switch mode PSUs (from printers?), each with +16v & +32v around 700mA. Transformers are expensive, so I might as well recycle these. The plan is to use the 32v from each to source the variable outputs. Not sure yet, but probably use one to also source the fixed outputs. 
+(The minimum voltage out for each channel, is likely to be at least 1.5v thanks to the LM317s, maximum will likely be a bit less than 30v, but it's very rare I want beyond those edges).
 
 For a case, I had a 3mm sheet aluminium offcut that cut in half & cleaned up provides pieces 146x148mm that I plan to use for the front and back panels. I've also got quite a large 14mm thick plywood board which should do for the sides. Low cost beats aesthetics there.
 
