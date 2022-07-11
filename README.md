@@ -2,6 +2,20 @@
 
 *A power supply for electronics experimentation*
 
+## Status
+
+*2022-07-11* - returning to this after a long pause. 
+
+* I've got two 32v laptop PSUs
+* I made and populated a front panel
+* I've got some LM317s to use as the main components
+* I bought a couple of very cheap V/A displays, DSN-VC288, nearest thing to a datasheet is [here]()
+
+I need to figure out the circuit...
+
+
+See [devlog.md](devlog.md)
+
 ## Specifications
 
 Provisionally :
